@@ -1,6 +1,8 @@
 # Quiz Master
 Try the [GitHub Pages Demo](https://medieinstitutet.github.io/fed23d-javascript-grundkurs-gruppuppgift-clementinerna/).
 
+Copy of project. Need to resolve '[remote rejected] refusing to allow an OAuth App to create or update workflow 'file path' without 'workflow' scope' issue.
+
 ## Authors
 @armin-164
 @jessworks
